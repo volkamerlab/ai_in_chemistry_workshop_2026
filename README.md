@@ -1,8 +1,8 @@
 # AI in chemistry workshop
 
-[8th Artificial Intelligence in Chemistry Symposium](https://www.rscbmcs.org/events/aichem8/) Workshop
+[9th Artificial Intelligence in Chemistry Symposium](https://www.rscbmcs.org/events/aichem9/) Workshop
 
-Pat Walters, Raquel López-Ríos de Castro, Afnan Sultan, Lisa-Marie Rolli, Andrea Volkamer
+Pat Walters, Lisa-Marie Rolli, Ana Mirandela, Andrea Volkamer
 
 ## Content
 
@@ -34,10 +34,10 @@ Date: 2025-09-22, 1:00 - 6:00 pm
 | ----------| ------------------------------- |-------------------------------|
 | 1:00-1:30 | Hands-on: [Jupyter intro][0]    | Lisa-Marie Rolli              |
 | 1:30-2:00 | Lecture: Intro to AI and ML     | Pat Walters                   |
-| 2:00-2:30 | Hands-on: [AI techniques][1]    | Afnan Sultan                  |
+| 2:00-2:30 | Hands-on: [AI techniques][1]    | Ana Mirandela / Lisa-Marie Rolli                  |
 | 2:30-3:00 | Break            |                               |
-| 3:00-3:30 | Lecture: Data is key            | Pat Walters & Andrea Volkamer |
-| 3:30-4:00 | Hands-on: [Data exploration][2] | Raquel López-Ríos de Castro   |
+| 3:00-3:30 | Lecture: Data is key            | Andrea Volkamer |
+| 3:30-4:00 | Hands-on: [Data exploration][2] | Ana Mirandela / Lisa-Marie Rolli    |
 | 4:00-4:30 | Break            |                               |
 | 4:30-5:00 | Lecture: AI in practice         | Pat Walters                   |
 | 5:00:5:30 | Hands-on: [Molecule Generation][3]   | Pat Walters                   |
