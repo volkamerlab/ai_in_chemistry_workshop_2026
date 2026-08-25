@@ -27,7 +27,7 @@ Session 3
 
 ## Schedule
 
-Date: 2025-09-22, 1:00 - 6:00 pm
+Date: 2026-09-02, 1:00 - 6:00 pm
 
 
 | Time      | Topic                           | Presenter                     |
