@@ -17,7 +17,7 @@ Session 1
 
 Session 2
 * Importance of data quality for AI/ML
-* Data processing and exploratory data analysis: [Quiz](https://www.menti.com/alrb546pj3hm)
+* Data processing and exploratory data analysis
 * Applicability domains
 
 Session 3
@@ -48,7 +48,7 @@ Date: 2026-09-02, 1:00 - 6:00 pm
 
 [0]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/Intro_Session/session_0_intro_to_python.ipynb
 [1]: https://colab.research.google.com/gist/Afnan-Sultan/111fb1376659d526f8b57ca45dd8581a/session_1.ipynb
-[2]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/2_Data_Exploration.ipynb
+[2]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/2_Data_Exploration_ER.ipynb
 [3]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/3_Molecule_Generation/SMILES_RNN.ipynb
 [4]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/4_Active_Learning/active_regression.ipynb
 
