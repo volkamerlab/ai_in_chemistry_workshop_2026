@@ -2,13 +2,15 @@
 
 [9th Artificial Intelligence in Chemistry Symposium](https://www.rscbmcs.org/events/aichem9/) Workshop
 
-Pat Walters, Lisa-Marie Rolli, Ana Mirandela, Andrea Volkamer
+Pat Walters, Lisa-Marie Rolli, Ana Mirandela, Nessa Carson and Andrea Volkamer
 
 ## Content
 
 Session 0 - [Pre-workshop](https://github.com/volkamerlab/ai_in_chemistry_workshop_2026/tree/main/Intro_Session)
 * Intro to Jupyter Notebooks
-* Basic Python functionality 
+* Basic Python functionality
+  
+**Note this session is really for beginners, if you feel comfortable with the material, you can also skip it and start with Session 1.** 
 
 Session 1
 * Introduction to Artificial Intelligence (AI) and Machine Learning (ML)
@@ -16,9 +18,9 @@ Session 1
 * AI architectures
 
 Session 2
-* Importance of data quality for AI/ML
-* Data processing and exploratory data analysis
-* Applicability domains
+* Importance of data quality for AI and ML 
+* Data sets and (pre)processing 
+* Trusting your predictions
 
 Session 3
 * AI in Practice
@@ -33,15 +35,15 @@ Date: 2026-09-02, 1:00 - 6:00 pm
 | Time      | Topic                           | Presenter                     |
 | ----------| ------------------------------- |-------------------------------|
 | 1:00-1:30 | Hands-on: [Jupyter intro][0]    | Lisa-Marie Rolli              |
-| 1:30-2:00 | Lecture: Intro to AI and ML     | Pat Walters                   |
+| 1:30-2:00 | Lecture: Intro to AI and ML     | Andrea Volkamer                   |
 | 2:00-2:30 | Hands-on: [AI techniques][1]    | Lisa-Marie Rolli                  |
 | 2:30-3:00 | Break            |                               |
 | 3:00-3:30 | Lecture: Data is key            | Andrea Volkamer |
-| 3:30-4:00 | Hands-on: [Data exploration][2] | Ana Mirandela    |
+| 3:30-4:00 | Hands-on: [Data exploration][2] | Ana Mirandela     |
 | 4:00-4:30 | Break            |                               |
-| 4:30-5:00 | Lecture: AI in practice         | Pat Walters                   |
-| 5:00:5:30 | Hands-on: [Molecule Generation][3]   | Pat Walters                   |
-|           | Hands-on: [Active Learning][4]   | Pat Walters                   |
+| 4:30-5:00 | Lecture: AI in practice         | Nessa Carlson                   |
+| 5:00:5:30 | Hands-on: [Molecule Generation][3]   | Lisa-Marie Rolli                   |
+|           | Hands-on: [Active Learning][4]   | Ana Mirandela                   |
 | 5:30-6:00 | Whole Workshop Q&A            |                               |
 
 <!-- TODO: Update colab links -->
