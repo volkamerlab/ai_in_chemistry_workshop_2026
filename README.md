@@ -42,7 +42,7 @@ Date: 2026-09-02, 1:00 - 6:00 pm
 | 3:30-4:00 | Hands-on: [Data exploration][2] | Ana Mirandela     |
 | 4:00-4:30 | Break            |                               |
 | 4:30-5:00 | Lecture: AI in practice         | Nessa Carlson                   |
-| 5:00:5:30 | Hands-on: [Molecule Generation][3]   | Lisa-Marie Rolli                   |
+| 5:00:5:30 | Hands-on: [Conformal Prediction][3]   | Lisa-Marie Rolli                   |
 |           | Hands-on: [Active Learning][4]   | Ana Mirandela                   |
 | 5:30-6:00 | Whole Workshop Q&A            |                               |
 
@@ -50,8 +50,8 @@ Date: 2026-09-02, 1:00 - 6:00 pm
 
 [0]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/Intro_Session/session_0_intro_to_python.ipynb
 [1]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/1_Supervised_ML/1_intro_supervised_ML.ipynb
-[2]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/2_Data_Exploration_ER.ipynb
-[3]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/3_Molecule_Generation/SMILES_RNN.ipynb
+[2]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/2_Data_Exploration_ER/2_Data_Exploration_ER.ipynb
+[3]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/3_Conformal_Prediction/inductive_CP.ipynb
 [4]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2026/blob/main/notebooks/4_Active_Learning/active_regression.ipynb
 
 ## How to start using this material
